@@ -1,0 +1,1 @@
+export * as CatsController from './cats.controller'

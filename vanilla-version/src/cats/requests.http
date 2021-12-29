@@ -1,0 +1,12 @@
+GET http://localhost:3001/cats
+
+###
+POST http://localhost:3001/cats
+Content-Type: application/json
+
+{
+    "name": "Gardfield",
+    "age": 10,
+    "breed": "roman"
+}
+
